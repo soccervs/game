@@ -30,7 +30,7 @@ be dual licensed as above, without any additional terms or conditions.
 
 
 ### Config file
-To run the app locally you need to create a config.json file and place it in the root folder (you can also put it in the `[AppData]/GOALS/Gamecure` folder)
+To run the app locally you need to create a config.json file and place it in the root folder (you can also put it in the `[AppData]/soccervs/Gamecure` folder)
 (This file is ignored in the .gitignore)
 
 
