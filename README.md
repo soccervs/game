@@ -1,5 +1,7 @@
 
 # GAMECURE
+![Modern Colorful Gaming YouTube Channel Art (2)](https://user-images.githubusercontent.com/118144612/203135135-c91be90f-528d-46c4-bfe0-c9de9be92b54.png)
+
 
 ## Contributions
 We welcome contributions to this project. Just fork the repo, make your changes
